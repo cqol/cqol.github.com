@@ -1,0 +1,146 @@
+var a = {
+	"productCategoryId": "50010850",
+	"productTitle": "盛夏连衣裙",
+	"commendBeanList": [{
+		"pid": 123445,
+		"picUrl": "img3/tttt",
+		"name": "wuxiao",
+		"cateId": "670",
+		"title": "huahua",
+		"url": "http://www.taobao.com",
+		"originalPrice": "56.00",
+		"clickUrl": "http://www.taobao.com",
+		"decodeLink": "http://www.bbb.com",
+		"isTtsTuan": 1
+	}, {
+		"pid": 123445,
+		"picUrl": "img3/tttt",
+		"name": "wuxiao",
+		"cateId": "671",
+		"title": "huahua",
+		"url": "http://www.taobao.com",
+		"originalPrice": "56.00",
+		"clickUrl": "http://www.taobao.com",
+		"decodeLink": "http://www.bbb.com",
+		"isTtsTuan": 1
+	}, {
+		"pid": 123445,
+		"picUrl": "img3/tttt",
+		"name": "wuxiao",
+		"cateId": "672",
+		"title": "huahua",
+		"url": "http://www.taobao.com",
+		"originalPrice": "56.00",
+		"clickUrl": "http://www.taobao.com",
+		"decodeLink": "http://www.bbb.com",
+		"isTtsTuan": 1
+	}, {
+		"pid": 123445,
+		"picUrl": "img3/tttt",
+		"name": "wuxiao",
+		"cateId": "673",
+		"title": "huahua",
+		"url": "http://www.taobao.com",
+		"originalPrice": "56.00",
+		"clickUrl": "http://www.taobao.com",
+		"decodeLink": "http://www.bbb.com",
+		"isTtsTuan": 1
+	}, {
+		"pid": 123445,
+		"picUrl": "img3/tttt",
+		"name": "wuxiao",
+		"cateId": "674",
+		"title": "huahua",
+		"url": "http://www.taobao.com",
+		"originalPrice": "56.00",
+		"clickUrl": "http://www.taobao.com",
+		"decodeLink": "http://www.bbb.com",
+		"isTtsTuan": 1
+	}, {
+		"pid": 123445,
+		"picUrl": "img3/tttt",
+		"name": "wuxiao",
+		"cateId": "675",
+		"title": "huahua",
+		"url": "http://www.taobao.com",
+		"originalPrice": "56.00",
+		"clickUrl": "http://www.taobao.com",
+		"decodeLink": "http://www.bbb.com",
+		"isTtsTuan": 1
+	}, {
+		"pid": 123445,
+		"picUrl": "img3/tttt",
+		"name": "wuxiao",
+		"cateId": "676",
+		"title": "huahua",
+		"url": "http://www.taobao.com",
+		"originalPrice": "56.00",
+		"clickUrl": "http://www.taobao.com",
+		"decodeLink": "http://www.bbb.com",
+		"isTtsTuan": 1
+	}, {
+		"pid": 123445,
+		"picUrl": "img3/tttt",
+		"name": "wuxiao",
+		"cateId": "677",
+		"title": "huahua",
+		"url": "http://www.taobao.com",
+		"originalPrice": "56.00",
+		"clickUrl": "http://www.taobao.com",
+		"decodeLink": "http://www.bbb.com",
+		"isTtsTuan": 1
+	}, {
+		"pid": 123445,
+		"picUrl": "img3/tttt",
+		"name": "wuxiao",
+		"cateId": "678",
+		"title": "huahua",
+		"url": "http://www.taobao.com",
+		"originalPrice": "56.00",
+		"clickUrl": "http://www.taobao.com",
+		"decodeLink": "http://www.bbb.com",
+		"isTtsTuan": 1
+	}, {
+		"pid": 123445,
+		"picUrl": "img3/tttt",
+		"name": "wuxiao",
+		"cateId": "679",
+		"title": "huahua",
+		"url": "http://www.taobao.com",
+		"originalPrice": "56.00",
+		"clickUrl": "http://www.taobao.com",
+		"decodeLink": "http://www.bbb.com",
+		"isTtsTuan": 1
+	}],
+	"commendWordList": [
+		{
+			"keyword": "guanzhu",
+			"encodeKeyword": "关注0",
+			"url": "http://www.baidu.com"
+		},
+		{
+			"keyword": "guanzhu",
+			"encodeKeyword": "关注1",
+			"url": "http://www.baidu.com"
+		},
+		{
+			"keyword": "guanzhu", "encodeKeyword": "关注2", "url": "http://www.baidu.com"
+		}, {
+			"keyword": "guanzhu",
+			"encodeKeyword": "关注3",
+			"url": "http://www.baidu.com"
+		}, {"keyword": "guanzhu", "encodeKeyword": "关注4", "url": "http://www.baidu.com"}, {
+			"keyword": "guanzhu",
+			"encodeKeyword": "关注5",
+			"url": "http://www.baidu.com"
+		}, {"keyword": "guanzhu", "encodeKeyword": "关注6", "url": "http://www.baidu.com"}, {
+			"keyword": "guanzhu",
+			"encodeKeyword": "关注7",
+			"url": "http://www.baidu.com"
+		}, {"keyword": "guanzhu", "encodeKeyword": "关注8", "url": "http://www.baidu.com"}, {
+			"keyword": "guanzhu",
+			"encodeKeyword": "关注9",
+			"url": "http://www.baidu.com"
+		}],
+	"mark": "B"
+}
